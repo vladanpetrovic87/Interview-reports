@@ -1,0 +1,17 @@
+.btn {
+  font-size: 25px;
+  color: white;
+}
+
+.int {
+  font-size: 42px;
+  font-weight: bold;
+  font-family: Garamond, serif;
+  font-style: italic;
+  letter-spacing: 2px;
+}
+
+.header {
+  padding: 3vh;
+  background-color: rgb(35, 131, 247);
+}

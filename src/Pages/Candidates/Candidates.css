@@ -1,0 +1,31 @@
+.ourCard {
+  width: 30%;
+  border: 2px solid rgb(155, 202, 255);
+  background-color: white;
+  margin: 0 auto;
+  margin-bottom: 5%;
+}
+
+.input {
+  width: 100%;
+  display: block;
+}
+
+.navigate {
+  margin: 20px 40px 20px 40px;
+}
+
+.cand {
+  font-size: 30px;
+  color: rgb(108, 137, 176);
+  font-family: Garamond, serif;
+  font-style: italic;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+@media only screen and (max-width: 767px) {
+  .ourCard {
+    width: 90%;
+  }
+}
